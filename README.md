@@ -1,4 +1,4 @@
-# flutter_application_1
+# flutter_shanbei
 
 基于**flutter 框架**仿制的简易扇贝移动端 App
 
