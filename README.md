@@ -4,7 +4,7 @@
 
 **本项目及其代码仅用作学习和研究.**
 
-Web 版基于 React 开发, 代码开源地址:  
+Web 版基于 React 开发, 代码开源地址: https://github.com/mbldlkk/shanbei-web
 后端代码基于 nestjs.
 
 ### 1. 该项目用到以下包或插件
